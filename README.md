@@ -21,3 +21,10 @@ The purpose of this analysis is to provide information about cryptocurrencies.
 *Picture 2: Unlocked Cryptocurrencies*
  ![cryp pic 2](https://user-images.githubusercontent.com/78306719/122296894-9263f880-cec0-11eb-830d-16f7ea2396e1.PNG)
 
+ # Summary
+
+ Unsupervised Machine Learning is used when there is no known output. For this project, input data was used, processed using unsupervised model, and clustered using K-means. The results show that there were 4 classifications and classification number 2 (the orange X) is the outlier (See Picture 3).
+
+
+ *Picture 3:  Cryptocurrencies Classification*
+![3DScatter plot](https://user-images.githubusercontent.com/78306719/132992019-3eddfea3-337d-4030-8ec3-ca001cb65c11.PNG)
